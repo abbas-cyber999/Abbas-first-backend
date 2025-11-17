@@ -1,0 +1,171 @@
+{
+  "level": "A0",
+  "title": "A0 – النطق والحروف",
+  "lessons": [
+    {
+      "id": "Pronunciation_Alphabet",
+      "title": {
+        "ar": "الأبجدية الألمانية",
+        "de": "Das deutsche Alphabet",
+        "en": "German Alphabet"
+      },
+      "video": "https://www.youtube.com/watch?v=example1",
+      "interactiveScene": "المعلّمة تقول: Heute lernen wir das Alphabet! 🔤\nتبدأ بقراءة الحروف ببطء: A, B, C, D, E...\nوأنت تكرّر بعد كل حرف.",
+      "explanation": [
+        { "de": "A – ausgesprochen [aː]", "ar": "أَ" },
+        { "de": "B – ausgesprochen [beː]", "ar": "بـي" },
+        { "de": "C – ausgesprochen [tseː]", "ar": "تْسـي" },
+        { "de": "D – ausgesprochen [deː]", "ar": "دي" },
+        { "de": "E – ausgesprochen [eː]", "ar": "إي" },
+        { "de": "F – ausgesprochen [ɛf]", "ar": "إف" }
+      ],
+      "phrasesTable": [
+        { "de": "A wie Auto", "ar": "A مثل Auto (سيارة)" },
+        { "de": "B wie Ball", "ar": "B مثل Ball (كرة)" },
+        { "de": "C wie Computer", "ar": "C مثل Computer (كمبيوتر)" },
+        { "de": "D wie Deutschland", "ar": "D مثل Deutschland (ألمانيا)" },
+        { "de": "E wie Elefant", "ar": "E مثل Elefant (فيل)" }
+      ],
+      "tip": "يمكنك الاستماع لكل حرف عدة مرات 🔊 وتذكّر أن بعض الحروف تُنطق بطريقة مختلفة قليلاً عن الإنجليزية.",
+      "dialogue": [
+        {
+          "speaker": "👩‍🏫",
+          "de": "Wie buchstabiert man deinen Namen?",
+          "ar": "كيف تُهجّي اسمك؟"
+        },
+        {
+          "speaker": "👨",
+          "de": "N – O – A, Noa.",
+          "ar": "ن – و – أ، نوا."
+        }
+      ],
+      "summary": [
+        { "de": "A – aː", "ar": "أ" },
+        { "de": "E – eː", "ar": "إي" },
+        { "de": "I – iː", "ar": "إي قصيرة" },
+        { "de": "O – oː", "ar": "أو" },
+        { "de": "U – uː", "ar": "أو مغلقة" }
+      ],
+      "quiz": [
+        {
+          "question": "الحرف الذي يُنطق 'تْسـي' هو:",
+          "options": ["C", "Z", "S"],
+          "answer": 0,
+          "hint": "يُقال: C wie Computer."
+        },
+        {
+          "question": "الحرف الذي يُنطق 'بي' هو:",
+          "options": ["P", "B", "D"],
+          "answer": 1,
+          "hint": "B wie Ball."
+        }
+      ]
+    },
+
+    {
+      "id": "Pronunciation_Umlaut",
+      "title": {
+        "ar": "الأحرف الصوتية والأوملاوت",
+        "de": "Umlaute und Vokale",
+        "en": "Umlauts and vowels"
+      },
+      "video": "https://www.youtube.com/watch?v=example2",
+      "interactiveScene": "المعلّمة تبتسم وتقول: Heute machen wir Musik mit dem Mund! 🎶\nتكتب على اللوح: ä – ö – ü.\nوتقول: Diese Buchstaben heißen 'Umlaute'.",
+      "explanation": [
+        { "de": "ä – klingt wie 'e' aber länger", "ar": "ä تُنطق مثل إي طويلة" },
+        { "de": "ö – zwischen o und e", "ar": "ö صوت بين أو وإي" },
+        { "de": "ü – zwischen u und i", "ar": "ü صوت بين أو وإي مغلق" },
+        { "de": "ß – gesprochen wie 'ss'", "ar": "ß تُنطق مثل ss" }
+      ],
+      "phrasesTable": [
+        { "de": "schön", "ar": "جميل", "note": "ö صوت متوسط" },
+        { "de": "Mädchen", "ar": "فتاة", "note": "ä ناعمة" },
+        { "de": "grün", "ar": "أخضر", "note": "ü صوت عميق" },
+        { "de": "Fuß", "ar": "قدم", "note": "ß مثل ss" }
+      ],
+      "tip": "تُكتب الأوملاوت أحيانًا كـ ae, oe, ue عندما لا يمكن كتابة النقاط (مثلاً في الإيميل).",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Wie heißt das? schön oder schon?", "ar": "هل تقول schön أم schon؟" },
+        { "speaker": "👨", "de": "schön!", "ar": "جميل!" }
+      ],
+      "summary": [
+        { "de": "ä → مثل e طويلة", "ar": "صوت مفتوح ناعم" },
+        { "de": "ö → بين o و e", "ar": "صوت متوسط" },
+        { "de": "ü → بين u و i", "ar": "صوت مغلق" },
+        { "de": "ß → مثل ss", "ar": "تُنطق s طويلة" }
+      ],
+      "quiz": [
+        {
+          "question": "أي كلمة فيها حرف ü؟",
+          "options": ["grün", "Mädchen", "schön"],
+          "answer": 0,
+          "hint": "صوت ü موجود في grün."
+        },
+        {
+          "question": "كيف تكتب ä إذا لا يوجد أوملاوت على الكيبورد؟",
+          "options": ["ae", "ah", "ai"],
+          "answer": 0,
+          "hint": "ä = ae."
+        }
+      ]
+    },
+
+    {
+      "id": "Pronunciation_SpecialPairs",
+      "title": {
+        "ar": "الأحرف الثنائية الخاصة",
+        "de": "Buchstabenkombinationen",
+        "en": "Special letter combinations"
+      },
+      "video": "https://www.youtube.com/watch?v=example3",
+      "interactiveScene": "اليوم نقرأ كلمات صعبة قليلًا 😅.\nالمعلّمة تكتب على اللوح: ei, ie, sch, ch, sp, st.\nوتقول: Diese Kombinationen haben eigene Laute!",
+      "explanation": [
+        { "de": "ei → يُنطق مثل 'آي'", "ar": "مثل كلمة nein (لا)" },
+        { "de": "ie → يُنطق مثل 'إي طويلة'", "ar": "مثل كلمة Sie (أنت)" },
+        { "de": "sch → يُنطق مثل 'ش'", "ar": "مثل Schule (مدرسة)" },
+        { "de": "ch → صوت خفيف من الحلق", "ar": "مثل ich (أنا)" },
+        { "de": "sp / st → يُنطق 'شپ / شت' في بداية الكلمة", "ar": "مثل Straße (شارع)" }
+      ],
+      "phrasesTable": [
+        { "de": "nein", "ar": "لا", "note": "ei → آي" },
+        { "de": "Sie", "ar": "أنت", "note": "ie → إي طويلة" },
+        { "de": "Schule", "ar": "مدرسة", "note": "sch → ش" },
+        { "de": "ich", "ar": "أنا", "note": "ch → خفيفة" },
+        { "de": "Straße", "ar": "شارع", "note": "st → شت" }
+      ],
+      "tip": "في بداية الكلمة فقط يُنطق sp / st كـ شپ / شت. في المنتصف تبقى s عادية.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Wie spricht man 'Straße'?", "ar": "كيف نقرأ كلمة Straße؟" },
+        { "speaker": "👨", "de": "Shtrasse!", "ar": "شتراسِه!" },
+        { "speaker": "👩‍🏫", "de": "Sehr gut!", "ar": "جيد جدًا!" }
+      ],
+      "summary": [
+        { "de": "ei → آي", "ar": "مثل nein" },
+        { "de": "ie → إي", "ar": "مثل Sie" },
+        { "de": "sch → ش", "ar": "مثل Schule" },
+        { "de": "ch → خفيفة", "ar": "مثل ich" },
+        { "de": "sp/st → شپ/شت", "ar": "في بداية الكلمة فقط" }
+      ],
+      "quiz": [
+        {
+          "question": "كلمة تحتوي على 'sch' تُنطق:",
+          "options": ["س", "ش", "ز"],
+          "answer": 1,
+          "hint": "sch → ش."
+        },
+        {
+          "question": "كلمة 'nein' تُنطق:",
+          "options": ["نين", "ناين", "ني"],
+          "answer": 1,
+          "hint": "ei → آي."
+        },
+        {
+          "question": "في كلمة 'Straße'، 'st' تُنطق:",
+          "options": ["ست", "شت", "س"],
+          "answer": 1,
+          "hint": "في البداية تُنطق شت."
+        }
+      ]
+    }
+  ]
+}
