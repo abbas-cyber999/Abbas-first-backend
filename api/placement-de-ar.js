@@ -106,5 +106,17 @@ const placementData = {
 };
 
 export default function handler(req, res) {
+  // ✅ السماح للفرونت إند (موقعك على نتلايفي أو لوكالهوست) يطلب من هذا الـ API
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET,OPTIONS");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+
+  // معالجة طلبات الـ OPTIONS (اللي يرسلها المتصفح قبل الـ GET أحياناً)
+  if (req.method === "OPTIONS") {
+    res.status(200).end();
+    return;
+  }
+
+  // الرد الفعلي بالأسئلة
   res.status(200).json(placementData);
 }
