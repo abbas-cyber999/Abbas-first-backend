@@ -4,7 +4,7 @@
 
 const placementData = {
   // 👇 هون حط كل محتوى ملف placement-de-ar.json
-  {
+  
   "questions": [
     {
       "id": "q1",
